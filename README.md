@@ -1,9 +1,13 @@
 # [COSS & NHN Cloud 프로그램] NHN Cloud Training : Cloud Essentials 수강 후기
 
+> 수강일: 2026.06.16  
+> 교육명: [COSS & NHN Cloud 프로그램] NHN Cloud Training : Cloud Essentials
+
+<br>
+
 ![](./img_0616/01-logo_p.JPG)
 
-> 수강일: 2026.06.16
-> 교육명: [COSS & NHN Cloud 프로그램] NHN Cloud Training : Cloud Essentials
+<br>
 
 ## 요약
 
