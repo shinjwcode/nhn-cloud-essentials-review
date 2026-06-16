@@ -2,6 +2,7 @@
 
 > 수강일: 2026.06.16
 > 교육명: [COSS & NHN Cloud 프로그램] NHN Cloud Training : Cloud Essentials
+
 ![](./img_0616/01-logo_p.JPG)
 
 ## 요약
@@ -17,7 +18,8 @@
 
 이번 NHN Cloud Training : Cloud Essentials 교육은 네트워크 환경 구성부터 웹서버 생성, Load Balancer와 Auto Scale 구성, RDS for MySQL, Object Storage 사용까지 하나의 흐름으로 직접 실습할 수 있는 과정이어서 참여하게 되었다.
 
-![세부 일정](./img_0616/02-time-table.JPG)
+<img src="./img_0616/02-time-table.JPG" width="600">
+<em>세부 일정</em>
 
 ## 가장 성장한 점: 네트워크를 ‘설정값’이 아니라 ‘흐름’으로 이해하기
 
